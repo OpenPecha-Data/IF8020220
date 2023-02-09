@@ -1,0 +1,47 @@
+id: 1c07b95a8a194134a85599c081be4297
+annotation_type: index
+revision: '00001'
+annotations:
+  b972c8fa7ec545afa5f0a9e2759be9c7:
+    base: 4C34.txt
+    Chapters:
+    - title: Title
+      span:
+        start: 0
+        end: 10
+    - title: Homage
+      span:
+        start: 11
+        end: 273
+    - title: Short §1
+      span:
+        start: 274
+        end: 766
+    - title: Short §2
+      span:
+        start: 767
+        end: 897
+    - title: Short §3
+      span:
+        start: 898
+        end: 908
+    - title: Short §4
+      span:
+        start: 909
+        end: 919
+    - title: Short §5
+      span:
+        start: 920
+        end: 930
+    - title: Short §6
+      span:
+        start: 931
+        end: 941
+    - title: Short §7
+      span:
+        start: 942
+        end: 1549
+    - title: Colophon
+      span:
+        start: 1550
+        end: 1560

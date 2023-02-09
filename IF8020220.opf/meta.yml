@@ -1,0 +1,16 @@
+id: IF8020220
+default_language: sa
+source: https://www2.hf.uio.no/polyglotta/index.php?page=library&bid=2
+initial_creation_type: input
+imported: 2023-02-09 14:46:46.057496
+last_modified: 2023-02-09 14:46:46.057748
+source_metadata:
+  title: 'PP: Prajñāpāramitāhṛdaya'
+  language: sa
+bases:
+  4C34:
+    base_file: 4C34.txt
+    order: 1
+copyright:
+  status: Unknown
+  notice: ''
